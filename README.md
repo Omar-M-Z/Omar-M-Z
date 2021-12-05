@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey :D
 
 <!--
 **Omar-M-Z/Omar-M-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
