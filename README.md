@@ -1,5 +1,4 @@
 ### Hey :D
-- 🔭 Currently working on my first iOS app
 - 🌱 I’m currently learning Swift and Java
 - 👯 If you would like to collaborate, feel free to contact me
 - 📫 You can reach me on Discord, I'm Typical#2953
