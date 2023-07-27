@@ -1,7 +1,7 @@
 ### Hey :D
-- 🌱 I’m currently learning Swift and Java
-- 👯 If you would like to collaborate, feel free to contact me
-- 📫 You can reach me on Discord, I'm Typical#2953
+- 📚 I'm a CS student at the University of Toronto in Canada
+- 🏆 I'm a new competitive programmer, but trying to improving
+- 🎯 Main Current Goal: Earn high grades so I can get a Masters or PhD(or flex if neither of those come to fruition)
 
 <!--
 **Omar-M-Z/Omar-M-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
