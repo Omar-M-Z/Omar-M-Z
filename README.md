@@ -1,7 +1,6 @@
 ### Hey :D
 - 📚 I'm a CS student at the University of Toronto in Canada
-- 🏆 I'm a new competitive programmer, but trying to improving
-- 🎯 Main Current Goal: Not fail my classes
+- 🎯 Current Goal: Not fail my classes
 
 <!--
 **Omar-M-Z/Omar-M-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
